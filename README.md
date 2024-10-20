@@ -1,6 +1,8 @@
 # `✨Disnap`
 > `Thanos snap away any distractions with a clean animation (Chrome Extension)`
-> 
+>
+> inspired by apple's safari feature
+>
 > `This extension was tested on Arc Browser (chromium)`
 ```
 1️⃣ ~ Open the extension window
